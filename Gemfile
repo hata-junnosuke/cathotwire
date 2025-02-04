@@ -41,6 +41,7 @@ gem "kaminari"
 
 gem "ransack"
 
+gem "bootstrap"
 gem "bootstrap_form"
 
 group :development, :test do
